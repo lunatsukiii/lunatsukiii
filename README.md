@@ -15,7 +15,7 @@ but whenever I start a new project I at least **try** to stick to it.
 I am very open to learning new languages and collaborating as long as I'm interested in the project so feel free to hmu!  
 
 
-## Languages:
+### Languages:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
