@@ -1,6 +1,7 @@
 ## Who am I? 
 
 Hi, I'm Luna, a beginner coder mainly interested in making games.  
+  
 Pronouns: she/her
 
 Currently I am learning C# by making a 2D puzzle platformer in Unity,
