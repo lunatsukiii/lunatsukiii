@@ -29,3 +29,8 @@ I am very open to learning new languages and collaborating as long as I'm intere
 
 ### Reach me:
 ![](https://dcbadge.vercel.app/api/shield/435696149819818004)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatsukiii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lunatsukiii&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
