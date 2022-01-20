@@ -4,9 +4,8 @@ Hi, I'm Luna, a beginner coder mainly interested in making games.
   
 Pronouns: she/her
 
-Currently I am learning C# by making a 2D puzzle platformer in Unity,
+Currently I am learning C# by making a 2D puzzle platformer in Unity (Repo currently private),
 and I am also still learning new things in flutter by working on an App which will hopefuly be released in the next couple of months! 
-Right now all of my repos are private though.  
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
 Sadly though, right now the only programming language I kind of feel comfortable with, is Dart in the flutter framework,  
