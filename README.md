@@ -34,3 +34,5 @@ I am very open to learning new languages and collaborating as long as I'm intere
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunatsukiii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lunatsukiii&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=lunatsukiii&color=blueviolet)
