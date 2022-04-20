@@ -9,7 +9,7 @@ I have some experience in Flutter but I still have quite a bit to learn before I
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
 Sadly though, right now the only programming language I kind of feel comfortable with, is Dart in the flutter framework like I mentioned before.  
-I also learned Python once but I never use Python.  
+I also learned Python a while ago but I never use Python.  
 
 Usually I sadly do not have alot of time to code,
 but whenever I start a new project I at least **try** to stick to it.  
