@@ -4,7 +4,7 @@ Hi, I'm Luna, a artist and beginner coder, mainly interested in making games, wi
   
 Pronouns: she/her
 
-Currently I am learning C# in Unity!  
+Currently I am learning C# by making a *very* simple 3D game in Unity!  
 I have some experience in Flutter but I still have quite a bit to learn before I would be comfortable saying that I'm good at using it.
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
@@ -15,7 +15,7 @@ Usually I sadly do not have alot of time to code,
 but whenever I start a new project I at least **try** to stick to it.  
 I am very open to learning new languages and collaborating as long as I'm interested in the project, so feel free to hmu!  
 
-As of right now my programming knowledge is still pretty small, but I'll be giving my best to find time to practice more and someday hopefully form a gamedev team with other people!
+As of right now my programming knowledge is still pretty small, but I'll be giving my best to find time to practice more and someday hopefully form a gamedev team with other people that have similar interests!
 
 <br/>
 
