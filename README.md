@@ -1,6 +1,6 @@
 ## Who am I? 
 
-Hi, I'm Luna, a artist and beginner coder, mainly interested in making games, with a big dream to work in the video game industry in the future.  
+Hi, I'm Luna, an artist and beginner coder, mainly interested in making games, with a big dream to work in the video game industry in the future.  
   
 Pronouns: she/her
 
