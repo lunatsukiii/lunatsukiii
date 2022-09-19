@@ -4,7 +4,7 @@ Hi, I'm Luna, an artist and beginner coder, mainly interested in making games, w
   
 Pronouns: she/her
 
-Currently I am learning C# by making a *very* simple 3D game in Unity!  
+Currently I am learning C# by making a simple 3D game in Unity: *Cereal Simulator*!  
 I have some experience in Flutter but I still have quite a bit to learn before I would be comfortable saying that I'm good at using it.
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
@@ -21,7 +21,8 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 
 ### Public Projects:  
 
-[Stylophile](https://github.com/Celestial-Inc/Stylophile)  
+[Stylophile](https://github.com/Celestial-Inc/Stylophile) v1.1.0 <br/>
+[Cereal Simulator](https://github.com/lunatsukiii/Cereal-Simulator) *unreleased*
 
  
 ### Fluent Languages:  
