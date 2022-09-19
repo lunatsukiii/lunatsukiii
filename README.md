@@ -24,7 +24,7 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 [Stylophile](https://github.com/Celestial-Inc/Stylophile)  
 
  
-### Spoken Languages:  
+### Fluent Languages:  
 
 - English  
 - French  
