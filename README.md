@@ -22,7 +22,7 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 
 [Stylophile](https://github.com/Celestial-Inc/Stylophile) v1.1.0 <br/>
 [Cereal Simulator](https://github.com/lunatsukiii/Cereal-Simulator) *unreleased* <br/>
-[itch.io](https://lunatsukiii.itch.io/)
+[itch.io](https://lunatsukiii.itch.io/) <br/>
 [Website](https://lunatsukiii.github.io/QCC-Web/)
  
 ### Fluent Languages:  
