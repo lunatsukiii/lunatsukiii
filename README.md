@@ -8,7 +8,7 @@ Currently I am learning C# by making a 3D game in Unity: *Cereal Simulator*!
 I have some experience in Flutter but I still have quite a bit to learn before I would be comfortable saying that I master it.
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
-Currently I sadly only know 3 programming languages: Dart in the Flutter Framework, C# in Unity and Python, I don't use Python tho
+Currently I sadly only know 5 programming languages: Dart in the Flutter Framework, C# in Unity, HTML & CSS, Javascript and Python, however my knowledge in JS is very limited and I never use Python
 
 Usually I do not have alot of time to code,
 but whenever I start a new project I **try** to stick to it.  
@@ -22,8 +22,8 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 
 [Stylophile](https://github.com/Celestial-Inc/Stylophile) v1.1.0 <br/>
 [Cereal Simulator](https://github.com/lunatsukiii/Cereal-Simulator) *unreleased* <br/>
-[itch.io](https://lunatsukiii.itch.io/) <br/>
-[Website](https://lunatsukiii.github.io/QCC-Web/)
+[itch.io](https://lunatsukiii.itch.io/) other projects <br/>
+[Website](https://lunatsukiii.github.io/QCC-Web/) portfolio website <br/>
  
 ### Fluent Languages:  
 
@@ -34,7 +34,7 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 
 ### Programming Languages:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Platforms, Frameworks, Engines, etc.:
 
