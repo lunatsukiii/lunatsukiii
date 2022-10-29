@@ -22,9 +22,10 @@ As of right now my programming knowledge is still pretty small, but I'll be givi
 
 [Stylophile](https://github.com/Celestial-Inc/Stylophile) v1.1.0 <br/>
 [Cereal Simulator](https://github.com/lunatsukiii/Cereal-Simulator) *unreleased* <br/>
+[Bouncing Pride Flags](https://github.com/lunatsukiii/Bouncing-Pride-Flags-DVD-Logo) <br/>
 [itch.io](https://lunatsukiii.itch.io/) other projects <br/>
 [Website](https://lunatsukiii.github.io/QCC-Web/) portfolio website <br/>
- 
+
 ### Fluent Languages:  
 
 - English  
