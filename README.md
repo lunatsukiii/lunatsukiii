@@ -1,6 +1,6 @@
 ## Who am I? 
 
-Hi, I'm Luna! I am attending my last year of high school and hope to enroll at ETH Zurich in September 2024.
+Hi, I'm Luna! I am attending my last year of high school and hope to enroll at ETH Zurich in September 2024.  
 I'm an artist & programmer and I'm interested in many different things but my big dream is to work as a software and/or game developer in the future.   
   
 Most of my programming experience lies in developing Android apps using Flutter & .NET MAUI, and Windows game development using Unity.   
