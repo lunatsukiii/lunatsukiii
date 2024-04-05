@@ -9,8 +9,14 @@ I am currently learning C# by making games in Unity from time to time.
 Most of my programming experience is in Android app development using Flutter & .NET MAUI and Windows game development using Unity, but I still have a lot to learn in both areas.   
 
 I have a lot of project ideas floating around in my head and I hope to someday be able to execute them!  
-Currently I sadly only know 5 programming languages: Dart in the Flutter Framework, C# in Unity & .NET MAUI, HTML & CSS, Javascript, and Python, though my JS knowledge is very limited and I never use Python.
+Currently I know 5 programming languages: 
 
+* Dart in the Flutter Framework (proficient)
+* C# in Unity & .NET MAUI (proficient)
+* HTML & CSS, Javascript (intermediate)
+* Python (beginner)
+
+I am very excited about learning more programming languages in the future!
 
 Usually, I do not have much time to code,
 but whenever I start a new project, I **try** to stick with it.  
