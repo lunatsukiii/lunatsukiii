@@ -1,7 +1,7 @@
 ## Who am I? 
 
 Hi, I'm Luna!  
-I'm a student st ETH studying Comp Sci and like to draw in my free time :P . I'm interested in many different things but my big dream is to work as a software and/or game developer in the future.   
+I'm a student studying Comp Sci and like to draw in my free time! I'm interested in many different things but my big dream is to work as a software and game developer in the future.   
   
 Most of my programming experience lies in developing Android apps using Flutter & .NET MAUI, and Windows game development using Unity.   
 
